@@ -2,7 +2,7 @@
 
 [Ano passado o time se formou e com ele veio um desafio](https://medium.com/rd-shipit/developer-experience-chapter-one-11d3f3499899): Como vamos medir a evolução das nossas iniciativas? Quais métricas a gente vai olhar para saber que estamos no caminho certo? Uma empresa que tem como valor [Data-Driven](https://www.cultura.rdstation.com/) precisa tomar decisões baseadas em evidências sólidas e seguras.
 
-**Precisamos medir a produtividade**
+### **Precisamos medir a produtividade**
 
 Esse com certeza foi o nosso primeiro pensamento e se você caiu nessa armadilha deve ter descoberto: Essa é uma métrica muito complexa para ser definida, porque medir a coisa errada pode levar a um problema maior do que o de apenas não medir, como já diziam os agilistas: **métricas moldam comportamentos** (ou na economia, pessoas respondem a incentivos)**.**
 
@@ -16,13 +16,13 @@ Esse [texto](https://medium.com/rd-shipit/m%C3%A9tricas-em-times-%C3%A1geis-as-3
 
 Mas nós continuamos com um problema: Como vamos medir a evolução das nossas iniciativas? Como vamos saber se a nossa engenharia realmente está mais produtiva?
 
-**Como o mercado mede isso?**
+### **Como o mercado mede isso?**
 
 Sem dúvida nós não devemos ser os primeiros a enfrentar esse problema, então vamos descobrir como outras empresas têm acompanhado a evolução dessa produtividade.
 
 Após [muita leitura sobre o assunto](https://awesome-exp.dev/)(e de montar um compilado com essas informações) encontramos um conjunto de métricas que vem ganhando força na área de maneira a demonstrar a performance de um time de desenvolvimento de software: as [DORA Metrics](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance)
 
-**O que são DORA Metrics?**
+### **O que são DORA Metrics?**
 
 Essa também foi nossa dúvida. Um dos grupos de pesquisa do Google realiza há alguns anos um estudo sobre as práticas de DevOps que permitem uma empresa ir “melhor ou pior”, esse relatório é chamado de The DevOps Research and Assessment (DORA).
 
